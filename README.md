@@ -1,2 +1,0 @@
-# covidstagemangement
-Created with CodeSandbox
